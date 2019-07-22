@@ -1,2 +1,3 @@
 Hi! I'm Bob. I've been here some time.
 Same line in bob.
+Some line.
